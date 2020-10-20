@@ -5,7 +5,7 @@
 # By Brandon Perez
 
 # Screen shot
-<img scr = "Screenshot161.png">
+ <img scr = "Screenshot161.png">
 
 ## Table of Contents
 * [Description](#Description)
